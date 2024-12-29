@@ -1,0 +1,6 @@
+# [全开源]拼团（1+9）+交易大厅H5,APP封装源码
+
+前端VUE，可封装APP<br>后端fastadmin<br>全开源，包含VUE源码<br>游戏规则：<br>1，商家，参与者，中奖者，没有中奖会员，分享着奖励，分配。<br>2, 1+9模式（后台设置,2+8,3+7，中奖率比例%）（10人拼团1人中奖，9人未中，分配未中者退回本金+18元参与奖励） <br>3， example.com，example.com% <br>4， 拼中产品会员，金额进入积分钱包，example.com%每天递减释放（资金池低于要还返金额的5%，example.com%的基础50%example.com%）<br>5，四星五星参与分红（后台设置四星，五星每天分红奖励不一样，分开设置，数字，不是平均分配） <br>6，个人资产;余额（变现，参与拼团），积分（购中产品金额显示，按每天释放在余额，冻结资金（为现在参与产品拼团，未开奖，如参与拼团成功，则到积分里面参与释放，和等待收货：没有成功则退和参与奖励一起至回余额）QB积分（可以参与拼团，卖出，没有参与中退回至QB积分），（为在交易大厅购买，）要卖出去必须按比例执行，如：1:9即要买100元，必须购买10个QB值（1:1购买得），再在交易大厅卖出10个QB值+100余额（90+10手续费）后台设置比例：如：余额设置90%，QB自动10%。<br>7，服务中心余额可以转自己下面团队会员账号手续费10%，，<br>8，后台网体显示出来 <br>9，后台可以设置不中会员号码参与拼团<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/wmCjz" style="color: red;">https://mega-file.org/wmCjz</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
